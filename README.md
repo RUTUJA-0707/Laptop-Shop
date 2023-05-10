@@ -7,7 +7,7 @@ Now you need to download NodeJs (version - 12.11.1), Angular cli, and MySQL Comm
 
 Now open "laptopshop\laptopshop" directory in eclipse and fine pom.xml file right click this file and run as maven build. Now open "laptopshop\laptopshop-ui" directory in vs code.
 
-In order to run project you need to perform some commands. which i will share in terms of pic of windows powershell.
+In order to run project you need to perform some commands. which i will share in terms of pic of windows powershell i.e. (CommandToRun.jpeg) file in repo.
 
 Now to run the whole project you have type "ng serve" in vs code terminal. at same time you need to run "laptopshop\laptopshop\src\main\java\com\laptopshop\laptop\laptopshopapplication.java" file in eclipse.
 
